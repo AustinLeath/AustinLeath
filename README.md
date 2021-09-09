@@ -9,8 +9,8 @@
 
 hi, i'm [Austin Leath](https://austinleath.com), a full stack web developer and a freelance software engineer from Texas. I take great care in the experience, architecture, and code quality of the things I build.
   
-- 💼 any freelance work? do reach, [email](mailto:austinleath18@gmail.com)
-- 💬 ask me about anything, I am happy to help
+- 💼 Got any freelance work? Reach me at: [email](mailto:austinleath18@gmail.com)
+- 💬 Feel free to ask me about anything.
 
 **languages and tools:**  
 
