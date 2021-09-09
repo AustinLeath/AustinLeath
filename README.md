@@ -1,13 +1,11 @@
 <a href="https://twitter.com/AustinZLeath">
   <img align="left" alt="Austin Leath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/austinleath/">
+<a href="https://www.linkedin.com/in/austin-leath">
   <img align="left" alt="Austin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=austinleath.austinleath)
-
-<br />
 
 hi, i'm [Austin Leath](https://austinleath.com), a full stack web developer and a freelance software engineer from Texas. I take great care in the experience, architecture, and code quality of the things I build.
   
