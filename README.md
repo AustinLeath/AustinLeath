@@ -36,4 +36,4 @@ hi, i'm [Austin Leath](https://austinleath.com), a passionate self-taught full s
 
 📈 my github stats
 
-<p align="center"> <img src="username=Austinleath&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" alt="austinleath" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Austinleath&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" alt="austinleath" />
