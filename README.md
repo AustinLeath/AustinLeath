@@ -7,7 +7,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=austinleath.austinleath)
 
-hi, i'm [Austin Leath](https://austinleath.com), a full stack web developer and a freelance software engineer from Texas. I take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Austin Leath](https://austinleath.com), during the day I work remotely in the DFW area as a cloud engineer at [@aws](https://github.com/aws), but outside of that I am a full stack web developer and a freelance software engineer. I take great care in the experience, architecture, and quality of the things that I build.
+
+Most of my work is focused on the products over at [CodeCatch LLC](https://github.com/codecatchllc)
+
   
 - 💼 Got any freelance work? Reach me at [my email](mailto:austinleath18@gmail.com)
 - 💬 Feel free to ask me about anything.
