@@ -1,13 +1,8 @@
-<a href="https://twitter.com/AustinZLeath">
-  <img align="left" alt="Austin Leath | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/austin-leath">
-  <img align="left" alt="Austin's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=austinleath.austinleath)
 
-hi, i'm [Austin Leath](https://austinleath.com), during the day I work remotely in the DFW area as a cloud engineer at [@aws](https://github.com/aws), but outside of that I am a full stack web developer and a freelance software engineer. I take great care in the experience, architecture, and quality of the things that I build.
+Hello, i'm [Austin Leath](https://austinleath.com), during the day I work remotely in the DFW area as a cloud engineer at [@aws](https://github.com/aws), but outside of that I am a full stack web developer and a freelance software engineer. I take great care in the experience, architecture, and quality of the things that I build.
 
 Most of my work is focused on the products over at [CodeCatch LLC](https://github.com/codecatchllc)
 
