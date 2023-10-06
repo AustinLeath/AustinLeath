@@ -19,4 +19,3 @@ Most of my work is focused on the products over at [CodeCatch LLC](https://githu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Austinleath&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" alt="austinleath" />
